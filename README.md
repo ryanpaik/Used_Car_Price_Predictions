@@ -7,7 +7,7 @@ Problem Statement
 Data: There were 2 datasets that were used from Kaggle, brand new vehicles and used vehicles. 
 
 Features Used 12 column:
-  • Model
+  • 	Model
   •	MSRP
   •	Price
   •	Year
